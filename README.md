@@ -23,4 +23,12 @@ To store leet code questions
 |  |
 | ------- |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/vrindavnair-ai/Leet_code/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
