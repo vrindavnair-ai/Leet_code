@@ -19,4 +19,8 @@ To store leet code questions
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/vrindavnair-ai/Leet_code/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 <!---LeetCode Topics End-->
