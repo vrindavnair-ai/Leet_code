@@ -6,10 +6,12 @@ To store leet code questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -31,4 +33,8 @@ To store leet code questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
