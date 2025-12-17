@@ -33,8 +33,17 @@ To store leet code questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/vrindavnair-ai/Leet_code/tree/master/0225-implement-stack-using-queues) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vrindavnair-ai/Leet_code/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vrindavnair-ai/Leet_code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
