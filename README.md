@@ -25,6 +25,7 @@ To store leet code questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/vrindavnair-ai/Leet_code/tree/master/0605-can-place-flowers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/vrindavnair-ai/Leet_code/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## String
@@ -64,4 +65,8 @@ To store leet code questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/vrindavnair-ai/Leet_code/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
