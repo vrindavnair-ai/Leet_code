@@ -32,6 +32,7 @@ To store leet code questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -65,8 +66,13 @@ To store leet code questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/vrindavnair-ai/Leet_code/tree/master/0605-can-place-flowers) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
