@@ -24,6 +24,7 @@ To store leet code questions
 ## Array
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/vrindavnair-ai/Leet_code/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## String
 |  |
@@ -46,4 +47,16 @@ To store leet code questions
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vrindavnair-ai/Leet_code/tree/master/0225-implement-stack-using-queues) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
