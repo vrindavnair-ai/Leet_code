@@ -4,5 +4,6 @@ class Solution:
         for i in range (length):
             for j in range (i+1, length):
                 if (nums[i]+nums[j]==target):
+                    #assuming there is only one pair satisfying the condition
                     return [i,j]
         
