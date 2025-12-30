@@ -35,6 +35,7 @@ To store leet code questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -66,6 +67,7 @@ To store leet code questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/vrindavnair-ai/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -73,6 +75,7 @@ To store leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
