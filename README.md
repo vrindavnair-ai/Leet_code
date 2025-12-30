@@ -7,6 +7,7 @@ To store leet code questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ To store leet code questions
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vrindavnair-ai/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -75,6 +77,7 @@ To store leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
