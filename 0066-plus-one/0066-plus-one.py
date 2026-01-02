@@ -10,6 +10,7 @@ class Solution:
             if digits[i]<9:
                 #Add 1 to the last element
                 digits[i] += 1
+                #if digit is less than 9 return the digits and stop iterating
                 return digits
             #If the digit is greater than 9 then the last digit will become 0
             digits[i] = 0
