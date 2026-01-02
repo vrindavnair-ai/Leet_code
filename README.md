@@ -6,6 +6,7 @@ To store leet code questions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vrindavnair-ai/Leet_code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/0292-nim-game) |
@@ -30,6 +31,7 @@ To store leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/vrindavnair-ai/Leet_code/tree/master/0066-plus-one) |
 | [0605-can-place-flowers](https://github.com/vrindavnair-ai/Leet_code/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/vrindavnair-ai/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vrindavnair-ai/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
