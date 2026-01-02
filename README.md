@@ -8,6 +8,7 @@ To store leet code questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -17,10 +18,12 @@ To store leet code questions
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vrindavnair-ai/Leet_code/tree/master/1025-divisor-game) |
 ## Array
 |  |
