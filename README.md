@@ -43,12 +43,14 @@ To store leet code questions
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vrindavnair-ai/Leet_code/tree/master/0383-ransom-note) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vrindavnair-ai/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vrindavnair-ai/Leet_code/tree/master/0225-implement-stack-using-queues) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vrindavnair-ai/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
 |  |
 | ------- |
