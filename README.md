@@ -42,6 +42,7 @@ To store leet code questions
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vrindavnair-ai/Leet_code/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ To store leet code questions
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vrindavnair-ai/Leet_code/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
@@ -93,4 +95,8 @@ To store leet code questions
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vrindavnair-ai/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/vrindavnair-ai/Leet_code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
