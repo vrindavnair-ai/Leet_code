@@ -6,6 +6,7 @@ To store leet code questions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vrindavnair-ai/Leet_code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vrindavnair-ai/Leet_code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vrindavnair-ai/Leet_code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
@@ -40,6 +41,7 @@ To store leet code questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vrindavnair-ai/Leet_code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vrindavnair-ai/Leet_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
@@ -88,6 +90,7 @@ To store leet code questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vrindavnair-ai/Leet_code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vrindavnair-ai/Leet_code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vrindavnair-ai/Leet_code/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/vrindavnair-ai/Leet_code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vrindavnair-ai/Leet_code/tree/master/0242-valid-anagram) |
